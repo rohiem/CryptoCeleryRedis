@@ -1,0 +1,3 @@
+- Scheduling tasks in the background with CELERY REDIS AND DJANGO-BEAT_CELERY
+- Using the update of celery for periodic tasks
+- making scheduled api requests to keep up with the updates
